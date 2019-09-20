@@ -11,4 +11,4 @@ Imperial Age  | 03:30 | 1000 |  800 | Castle Age building x 2
 console.log(Hello World!)
 ``` 
 
-![NKFUST](nkfust.jpg "第一科大")
+![NKFUST](NKUST.png "第一科大")
